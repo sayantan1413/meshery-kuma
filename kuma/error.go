@@ -5,7 +5,7 @@ import (
 )
 
 var (
-	// Error code for failed service mesh installation
+	// Error code for failed service mesh installatio
 
 	// ErrOpInvalidCode represents the errors which are generated
 	// when an invalid operation is invoked
